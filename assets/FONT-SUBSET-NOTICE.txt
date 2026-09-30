@@ -1,0 +1,2 @@
+Gravity One UI is a renamed, subsetted derivative of Noto Sans CJK SC, licensed under SIL Open Font License 1.1. Original copyright and full license remain in FONT-LICENSE.txt. Modified 2026-09-30: glyph subset for all game source characters plus printable ASCII; family renamed Gravity One UI. No reserved upstream family name is used as the derivative family name.
+Gravity One Symbols is a renamed two-glyph subset of DejaVu Sans, covering U+21BB and U+2726. Its original copyright/license is in SYMBOLS-LICENSE.txt.
