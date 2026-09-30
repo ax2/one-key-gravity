@@ -1,0 +1,10 @@
+{
+  "requested_codepoints": 268,
+  "missing_codepoints": [],
+  "main_font_bytes": 134808,
+  "symbol_font_bytes": 3924,
+  "families": [
+    "Gravity One UI",
+    "Gravity One Symbols"
+  ]
+}
